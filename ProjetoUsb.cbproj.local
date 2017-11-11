@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/06 21:16:54.000.588,=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017/10/06 21:17:08.000.425,=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017/10/06 21:17:53.000.909,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.dfm=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/10/06 21:17:53.000.909,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.h=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2017/10/06 21:17:53.000.909,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.cpp=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017/10/06 21:18:04.000.036,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\uart_cpp.h=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017/10/06 22:23:28.000.130,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\Project2.cbproj=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2017/10/20 19:48:04.000.384,=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\Unit1.cpp</Transaction>
+    <Transaction>2017/10/20 19:48:42.000.974,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\class\CPortaSerial.h=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\Unit1.h</Transaction>
+    <Transaction>2017/10/20 19:48:42.000.974,C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\class\CPortaSerial.cpp=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\Unit1.cpp</Transaction>
+    <Transaction>2017/11/10 19:43:37.000.736,D:\TRABALHO DE ISH\Interfase que funciona\fPrincipal.h=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.h</Transaction>
+    <Transaction>2017/11/10 19:43:37.000.736,D:\TRABALHO DE ISH\Interfase que funciona\fPrincipal.dfm=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.dfm</Transaction>
+    <Transaction>2017/11/10 19:43:37.000.736,D:\TRABALHO DE ISH\Interfase que funciona\fPrincipal.cpp=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\fPrincipal.cpp</Transaction>
+    <Transaction>2017/11/10 19:45:27.000.516,D:\TRABALHO DE ISH\Interfase que funciona\ProjetoUsb.cbproj=C:\Users\KrisM\Documents\Embarcadero\Studio\Projects\aula 06_10\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
